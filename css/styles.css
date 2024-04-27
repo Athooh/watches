@@ -325,6 +325,10 @@ section.testimonials {
     margin: 10px;
 }
 
+.comment p {
+    font-style: italic;
+}
+
 /* testimonials slider */
 
 .testimonies_container {
